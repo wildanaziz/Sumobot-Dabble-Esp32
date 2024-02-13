@@ -33,7 +33,7 @@ If you encounter any issues or have questions, feel free to contact the author v
 
 ## Authors
 
-* Wildan Naziz
+* Wildan Aziz
   * Instagram: [@wildannaziz](https://instagram.com/wildannaziz)
 
 ## Version History
